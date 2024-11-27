@@ -68,11 +68,13 @@ Benefit: Ensures all variables contribute equally to the analysis, improving PCA
 This analysis demonstrates key predictors of heart health and effectively reduces data dimensions using PCA. Normalization and careful selection of principal components ensure robust insights for modeling and further analysis.
 
 
-#Scatter plot matrix 
-![This is my image]![image](https://github.com/user-attachments/assets/09119161-ed5d-45f2-9a78-a74dbbc502c3)
+
+![image](https://github.com/user-attachments/assets/09119161-ed5d-45f2-9a78-a74dbbc502c3)
 
 
 
+<!-- This content will not be displayed 
+This is the R Script
 
 Testing visualization For heartData project
 setwd("/Users/amarachukwuobi/Desktop/gethubTest")
@@ -119,5 +121,5 @@ quantitative_data <- train_data %>% select(Age, BP, Chol, HR)
 # Basic scatterplot matrix
 pairs(quantitative_data, main = "Scatterplot Matrix of Quantitative Data")
 
-
+-->
 
