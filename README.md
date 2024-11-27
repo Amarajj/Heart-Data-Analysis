@@ -74,7 +74,7 @@ This analysis demonstrates key predictors of heart health and effectively reduce
 
 
 <!-- This content will not be displayed 
-This is the R Script
+This is the R-Script
 
 Testing visualization For heartData project
 setwd("/Users/amarachukwuobi/Desktop/gethubTest")
